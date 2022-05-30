@@ -14,6 +14,10 @@ Core with Angular and React Redux utilize TypeScript.
 
 Core with React Redux utilizes TSX files, which is a TypeScript ( .TS) file written using JSX syntax.
 
+
+
+Cystemz thinks that the dream stack is express js, react, cloudflare, socket.io, and tailwind.
+
 ## Todo
 
 Test Rider support.
